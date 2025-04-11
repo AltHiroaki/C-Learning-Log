@@ -1,13 +1,13 @@
-//“Ç‚Ýž‚ñ‚¾®”’l‚Í0‚©‚Ç‚¤‚©
+//ï¿½Ç‚Ýï¿½ï¿½ñ‚¾ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½0ï¿½ï¿½ï¿½Ç‚ï¿½ï¿½ï¿½
 #include <stdio.h>
 int main(void){
     int n;
-    printf("®”’l‚ð“ü—Í‚µ‚Ä‚­‚¾‚³‚¢I‚O‚©‚Ç‚¤‚©”»’f‚µ‚Ü‚·I");
+    printf("ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½Í‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Iï¿½Oï¿½ï¿½ï¿½Ç‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½fï¿½ï¿½ï¿½Ü‚ï¿½ï¿½I");
     scanf("%d",&n);
     if (n)
-     printf("‚±‚ê‚Í‚O‚Å‚Í‚ ‚è‚Ü‚¹‚ñI");
+     printf("ï¿½ï¿½ï¿½ï¿½Í‚Oï¿½Å‚Í‚ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½I");
     else 
-     printf("‚±‚ê‚Í‚O‚Å‚·");
+     printf("ï¿½ï¿½ï¿½ï¿½Í‚Oï¿½Å‚ï¿½");
     return 0;
 
 }
