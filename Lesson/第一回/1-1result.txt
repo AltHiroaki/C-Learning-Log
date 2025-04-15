@@ -1,0 +1,4 @@
+手順11の結果:
+/home/s2410133/infoapp/ia_test
+手順12の結果:
+nextdir  test.txt
